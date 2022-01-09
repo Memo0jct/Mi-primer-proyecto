@@ -7,5 +7,7 @@ Repositorio es un término que tiene su raíz etimológica en repositorĭum, un 
 Existen diferentes tipos de repositorios, los principales son:
 
 Repositorios Institucionales
+
 Repositorios temáticos
+
 Repositorios de datos
